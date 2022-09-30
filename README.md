@@ -12,17 +12,15 @@ I'm an aspiring full-stack developer, with a hint of favouritism towards front-e
 
 ## Projects I've done
 
-|  Title | Description  | Link  |
-| :------------: | ------------ | :------------: |
-|  Groupomania | Creating the front-end and back-end of a corporate social media. Tech Stack: React, Node.js, Express, MySQL, Sequelize | [Groupomania](https://github.com/hannah-ganne/P7-Groupomania)  |
-| Piiquante | Creating a REST API for a hot sauce rating site. Tech Stack: Node.js, Express, MongoDB, Mongoose | [Piiquante](https://github.com/hannah-ganne/P6-Piiquante-API-REST)|
+|  Title | Description  | Link to Repo  | Link to Demo |
+| :------------: | ------------ | :------------: | :------------: |
+|  Groupomania | Creating the front-end and back-end of a corporate social media. Tech Stack: React, Node.js, Express, MySQL, Sequelize | [Groupomania](https://github.com/hannah-ganne/P7-Groupomania)  | |
+| Piiquante | Creating a REST API for a hot sauce rating site. Tech Stack: Node.js, Express, MongoDB, Mongoose | [Piiquante](https://github.com/hannah-ganne/P6-Piiquante-API-REST)| |
 | Kanap | Based on the legacy code, completing the UI with vanilla JavaScript | [Kanap](https://github.com/hannah-ganne/P5-Kanap-Vanilla-Javascript)  |
-| Kasa | Creating the UI of a Couch surfing website with Vanilla React | [Kasa](https://github.com/hannah-ganne/kasa)|
-| Ableton | Clone Project of Ableton's About page with React. Original website: [Ableton](https://www.ableton.com/en/about/) | [Ableton](https://github.com/hannah-ganne/ableton-clone)  |
-| Backstage Talks | Clone Project of Backstage Talks archive page. Original website: [Backstage Talks](https://backstagetalks.com/)| [Backstage Talks](https://github.com/hannah-ganne/backstage-talks-clone)|
+| Kasa | Creating the UI of a Couch surfing website with Vanilla React | [Kasa](https://github.com/hannah-ganne/kasa)| |
+| Ableton | Clone Project of Ableton's About page with React. Original website: [Ableton](https://www.ableton.com/en/about/) | [Ableton](https://github.com/hannah-ganne/ableton-clone)  | [Ableton Demo](https://hannah-ganne.github.io/ableton-clone/) |
+| Backstage Talks | Clone Project of Backstage Talks archive page. Original website: [Backstage Talks](https://backstagetalks.com/)| [Backstage Talks](https://github.com/hannah-ganne/backstage-talks-clone)| |
 | ... | ...More to come... | ... |
-
-
 
 
 
