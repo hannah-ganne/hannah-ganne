@@ -19,7 +19,8 @@ I'm an aspiring full-stack developer, with a hint of favouritism towards front-e
 | Kasa | Creating the UI of a Couch surfing website with Vanilla React | [Kasa](https://github.com/hannah-ganne/kasa)| [Kasa Demo](https://hannah-ganne.github.io/kasa/) |
 | Ableton | Clone Project of Ableton's About page with React. Original website: [Ableton](https://www.ableton.com/en/about/) | [Ableton](https://github.com/hannah-ganne/ableton-clone)  | [Ableton Demo](https://hannah-ganne.github.io/ableton-clone/) |
 | Backstage Talks | Clone Project of Backstage Talks archive page. Original website: [Backstage Talks](https://backstagetalks.com/)| [Backstage Talks](https://github.com/hannah-ganne/backstage-talks-clone)| [Backstage Talks Demo](https://hannah-ganne.github.io/backstage-talks-clone/) |
-| FAQ Accordion | Frontend Mentor challenge: creating an accordion card | [FAQ Accordion](https://github.com/hannah-ganne/faq-accordion) | [FAQ Accordion demo](https://hannah-ganne.github.io/faq-accordion)
+| FAQ Accordion | Frontend Mentor challenge: creating an accordion card | [FAQ Accordion](https://github.com/hannah-ganne/faq-accordion) | [FAQ Accordion demo](https://hannah-ganne.github.io/faq-accordion)|
+| Tip Calculator | Frontend Mentor challenge: creating a tip calculator | [Tip Calculator](https://github.com/hannah-ganne/tip-calculator) | [Tip Calculator demo](https://hannah-ganne.github.io/tip-calculator/)|
 
 
 
