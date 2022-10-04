@@ -1,6 +1,6 @@
 # Bonjour, I'm Hannah!
 
-I'm an aspiring full-stack developer, with a hint of favouritism towards front-end 😉. Korean living in France.
+I'm an aspiring full-stack developer React/Node, passionate about front-end 😉. Korean living in France.
 
 ## Tidbits about myself
 
