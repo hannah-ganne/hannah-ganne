@@ -15,12 +15,12 @@ I'm an aspiring full-stack developer React/Node, passionate about front-end 😉
 |  Title | Description  | Link to Repo  | Link to Demo |
 | :------------: | ------------ | :------------: | :------------: |
 |  Groupomania | Creating the front-end and back-end of a corporate social media. Tech Stack: React, Node.js, Express, MySQL, Sequelize | [Groupomania](https://github.com/hannah-ganne/P7-Groupomania)  | |
-| Piiquante | Creating a REST API for a hot sauce rating site. Tech Stack: Node.js, Express, MongoDB, Mongoose | [Piiquante](https://github.com/hannah-ganne/P6-Piiquante-API-REST)| |
-| Kasa | Creating the UI of a Couch surfing website with Vanilla React | [Kasa](https://github.com/hannah-ganne/kasa)| [Kasa Demo](https://hannah-ganne.github.io/kasa/) |
+|  Instrument | Clone project of Instrument's Home page with React. Original website: [Instrument](https://www.instrument.com/) | [Instrument](https://github.com/hannah-ganne/instrument-clone)  | [Instrument Demo](https://hannah-ganne.github.io/instrument-clone/) |
+| Tip Calculator | Frontend Mentor challenge: creating a tip calculator | [Tip Calculator](https://github.com/hannah-ganne/tip-calculator) | [Tip Calculator demo](https://hannah-ganne.github.io/tip-calculator/)|
 | Ableton | Clone Project of Ableton's About page with React. Original website: [Ableton](https://www.ableton.com/en/about/) | [Ableton](https://github.com/hannah-ganne/ableton-clone)  | [Ableton Demo](https://hannah-ganne.github.io/ableton-clone/) |
 | Backstage Talks | Clone Project of Backstage Talks archive page. Original website: [Backstage Talks](https://backstagetalks.com/)| [Backstage Talks](https://github.com/hannah-ganne/backstage-talks-clone)| [Backstage Talks Demo](https://hannah-ganne.github.io/backstage-talks-clone/) |
 | FAQ Accordion | Frontend Mentor challenge: creating an accordion card | [FAQ Accordion](https://github.com/hannah-ganne/faq-accordion) | [FAQ Accordion demo](https://hannah-ganne.github.io/faq-accordion)|
-| Tip Calculator | Frontend Mentor challenge: creating a tip calculator | [Tip Calculator](https://github.com/hannah-ganne/tip-calculator) | [Tip Calculator demo](https://hannah-ganne.github.io/tip-calculator/)|
+
 
 
 
